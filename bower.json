@@ -1,0 +1,25 @@
+{
+  "name": "angularwp-starter",
+  "version": "0.0.1",
+  "authors": [
+    ""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.24",
+    "angular-resource": "~1.2.24",
+    "angular-route": "~1.2.24",
+    "angular-ui-router": "~0.2.11",
+    "angular-sanitize": "~1.2.24",
+    "angular-animate": "~1.2.24"
+  }
+}
