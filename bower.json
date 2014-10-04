@@ -1,8 +1,8 @@
 {
-  "name": "angularwp-starter",
-  "version": "0.0.1",
+  "name": "angularwp",
+  "version": "0.0.2",
   "authors": [
-    ""
+    "cipher <gmgateway@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
@@ -14,12 +14,12 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.2.0",
-    "angular": "~1.2.24",
-    "angular-resource": "~1.2.24",
-    "angular-route": "~1.2.24",
-    "angular-ui-router": "~0.2.11",
-    "angular-sanitize": "~1.2.24",
-    "angular-animate": "~1.2.24"
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-resource": "*",
+    "angular-route": "*",
+    "angular-ui-router": "*",
+    "angular-sanitize": "*",
+    "angular-animate": "*"
   }
 }
